@@ -5,6 +5,7 @@ matplotlib
 opencv-python
 scikit-learn
 scipy
+python-dotenv
 
 # Deep Learning
 tensorflow
@@ -12,6 +13,7 @@ keras
 torch
 torchvision
 albumentations
+
 
 # Image Processing
 pillow
@@ -23,3 +25,5 @@ ipykernel
 
 # Google Colab
 #google-colab
+#supervision
+#roboflow

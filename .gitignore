@@ -14,6 +14,9 @@ venv/
 env/
 *.venv/
 
+# Ignore .env
+.env
+
 # dataset and large files
 #UNet_Approach/dataset/images/
 #UNet_Approach/dataset/labels/
