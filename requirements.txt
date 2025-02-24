@@ -1,0 +1,25 @@
+# Core dependencies
+numpy
+pandas
+matplotlib
+opencv-python
+scikit-learn
+scipy
+
+# Deep Learning
+tensorflow
+keras
+torch
+torchvision
+albumentations
+
+# Image Processing
+pillow
+tqdm
+
+# Jupyter Notebooks
+jupyter
+ipykernel
+
+# Google Colab
+#google-colab

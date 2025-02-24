@@ -1,0 +1,44 @@
+# Ignore Python cache and system files
+__pycache__/
+*.py[cod]
+*.so
+.DS_Store
+*.swp
+Thumbs.db
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+env/
+*.venv/
+
+# dataset and large files
+#UNet_Approach/dataset/images/
+#UNet_Approach/dataset/labels/
+#UNet_Approach/dataset/masks/
+
+# Ignore model weights and logs
+*.h5
+*.pt
+*.pth
+*.onnx
+*.tflite
+logs/
+checkpoints/
+wandb/
+tensorboard/
+
+# Ignore Google Colab runtime files
+.colab/
+.colab_metadata.json
+
+# Ignore VSCode and JetBrains settings
+.vscode/
+.idea/
+
+# Ignore temporary files
+*.tmp
+*.log
+*.bak
