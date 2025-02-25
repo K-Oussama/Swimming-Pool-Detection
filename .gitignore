@@ -18,12 +18,11 @@ env/
 .env
 
 # dataset and large files
-#UNet_Approach/dataset/images/
-#UNet_Approach/dataset/labels/
-#UNet_Approach/dataset/masks/
+#UNet_Approach/dataset/
 
 # Ignore model weights and logs
 *.h5
+*.keras
 *.pt
 *.pth
 *.onnx
