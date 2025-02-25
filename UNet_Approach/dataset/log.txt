@@ -1,0 +1,4 @@
+Error processing image P1030_png.rf.c6f832b267471e8cbc585a49f1fa3c4b.jpg: too many values to unpack (expected 5)
+Error processing image P0131_png.rf.753e2f3fa074bd0128feb49cc384af99.jpg: too many values to unpack (expected 5)
+Error processing image P0130_png.rf.72bf149bf5c13b77a2753e7040b1c3e8.jpg: too many values to unpack (expected 5)
+Error processing image P0882_png.rf.3ec271133807944b96b9f7516b028ad3.jpg: too many values to unpack (expected 5)
