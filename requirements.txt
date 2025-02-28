@@ -1,5 +1,8 @@
+# Deep Learning
+tensorflow==2.18.0
+
 # Core dependencies
-numpy
+numpy==1.26.4
 pandas
 matplotlib
 opencv-python
@@ -7,21 +10,14 @@ scikit-learn
 scipy
 python-dotenv
 
-# Deep Learning
-tensorflow
-keras
-torch
-torchvision
-albumentations
-
 
 # Image Processing
 pillow
 tqdm
 
 # Jupyter Notebooks
-jupyter
-ipykernel
+#jupyter
+#ipykernel
 
 # Google Colab
 #google-colab
