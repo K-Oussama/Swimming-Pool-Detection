@@ -21,7 +21,7 @@ env/
 #UNet_Approach/dataset/
 
 # Ignore model weights and logs
-*.h5
+#*.h5
 *.keras
 *.pt
 *.pth

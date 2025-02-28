@@ -92,6 +92,10 @@ python scripts/detect_pool.py --input ../dataset/images/sample.jpg --output outp
 ### 2. U-Net Deep Learning Approach
 
 This method leverages a U-Net model for semantic segmentation of swimming pools.
+
+If the U-Net model is not included in the repository, download it from this link :
+[Model - Google Drive ☁](https://drive.google.com/file/d/1XIYaCRQ7pLuBhKo1p04UC0iGu3Qr6Znd/view?usp=sharing)
+
 Run inference on an image:
 
 ```bash
